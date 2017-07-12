@@ -1,0 +1,238 @@
+{
+    "character_name": "Jovrir",
+    "class": "Ranger",
+    "background": "Outlander",
+    "total_hp": 9,
+    "current_hp": 9,
+    "race": "High Elf",
+    "alignment": "CN",
+    "level": 0,
+    "exp": 0,
+    "player_name": "Oliver Stenkilde",
+    "stats": [
+        {
+            "stat": "Strength",
+            "value": 8,
+            "proficiency": "-1"
+        },
+        {
+            "stat": "Dexterity",
+            "value": 17,
+            "proficiency": "+3"
+        },
+        {
+            "stat": "Constitution",
+            "value": 9,
+            "proficiency": "-1"
+        },
+        {
+            "stat": "Intelligence",
+            "value": 14,
+            "proficiency": "+2"
+        },
+        {
+            "stat": "Wisdom",
+            "value": 13,
+            "proficiency": "+1"
+        },
+        {
+            "stat": "Charisma",
+            "value": 13,
+            "proficiency": "+1"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Acrobatics",
+            "type": "Dex",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Animal Handling",
+            "type": "Wis",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Arcana",
+            "type": "Int",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Athletics",
+            "type": "Str",
+            "selected": true,
+            "proficiency": 1
+        },
+        {
+            "name": "Deception",
+            "type": "Cha",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "History",
+            "type": "Int",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Insight",
+            "type": "Wis",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Intimidation",
+            "type": "Cha",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Investigation",
+            "type": "Int",
+            "selected": true,
+            "proficiency": 2
+        },
+        {
+            "name": "Medicine",
+            "type": "Wis",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Nature",
+            "type": "Int",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Perception",
+            "type": "Wis",
+            "selected": true,
+            "proficiency": 1
+        },
+        {
+            "name": "Performance",
+            "type": "Cha",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Persuasion",
+            "type": "Cha",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Religion",
+            "type": "Int",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Sleight of Hand",
+            "type": "Dex",
+            "selected": false,
+            "proficiency": 0
+        },
+        {
+            "name": "Stealth",
+            "type": "Dex",
+            "selected": true,
+            "proficiency": 3
+        },
+        {
+            "name": "Survival",
+            "type": "Wis",
+            "selected": true,
+            "proficiency": 1
+        }
+    ],
+    "inspiration": null,
+    "proficiency_bonus": "+2",
+    "armor_class": 14,
+    "initiative": "+3",
+    "speed": 30,
+    "saving_throws": [
+        {   
+            "stat": "Strength",
+            "selected": true,
+            "bonus": "+1"
+        },
+        {   
+            "stat": "Dexterity",
+            "selected": true,
+            "bonus": "+5"
+        },
+        {   
+            "stat": "Constitution",
+            "selected": false,
+            "bonus": "-1"
+        },
+        {   
+            "stat": "Intelligence",
+            "selected": false,
+            "bonus": "+2"
+        },
+        {   
+            "stat": "Wisdom",
+            "selected": false,
+            "bonus": "+1"
+        },
+        {   
+            "stat": "Charisma",
+            "selected": false,
+            "bonus": "+1"
+        }
+    ],
+    "hit_dice": "1D10",
+    "death_saves": [
+        {
+            "type": "Success",
+            "times": 0
+        },
+        {
+            "type": "Failures",
+            "times": 0
+        }
+    ],
+    "att_spells": [
+        {
+            "name": "Short Swords",
+            "atk_bonus": "+5",
+            "dmg": "1D6",
+            "type": "p"
+        },
+        {
+            "name": "Long Bow",
+            "atk_bonus": "+5",
+            "dmg": "1D8+3",
+            "type": "p"
+        }
+    ],
+    "passive_wisdom": 11,
+    "languages": [
+        "Elvish",
+        "Common"
+    ],
+    "equipment": [
+        "Explorers Pack"
+    ],
+    "personality_trains": "I'm always picking things up, absently fiddling with them, and sometimes accidently breaking them.",
+    "ideals": "Life is like the seasons, in constant change, and we must change with it.",
+    "bonds": "I will bring terrible wrath down on the evildoers who destroyed my homeland",
+    "flaws": "I am too enamored of ale, wine, and other intoxicants",
+    "features_trains": [
+        {
+            "name": "Favored Enemy",
+            "value": "Monstrosities"
+        },
+        {
+            "name": "Origin",
+            "value": "Bounty Hunter"
+        }
+    ]
+}
